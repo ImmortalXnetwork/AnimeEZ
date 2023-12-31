@@ -1,5 +1,5 @@
 module.exports = {
-  "api_url": "https://anime-ez-api-git-master-immortalxnetworks-projects.vercel.app",
+  "api_url": "https://animeez-ac0e5b9eb097.herokuapp.com",
   // Enter your api host's url or if hosting locally/on your own computer use https://localhost:6969
   
   "time_update": "200",
